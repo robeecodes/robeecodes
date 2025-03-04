@@ -4,7 +4,7 @@ Hi there! I'm **Robin**, a passionate **3D Interactive Experience Developer** wh
 
 ---
 
-### 🚀 About Me
+### 🧑‍🎨 About Me
 
 - 🎮 **Unity Developer** with a strong focus on C# and 3D development.
 - 🌐 Experienced **Frontend Web Developer** proficient in **JavaScript** and **TypeScript**.

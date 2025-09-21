@@ -1,19 +1,10 @@
-# 👋 Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile!
 
-Hi there! I'm **Robin**, a passionate **3D Interactive Experience Developer** who loves crafting immersive experiences and experimenting with new technologies. Here’s a bit more about what I do:
-
----
-
-### 🧑‍🎨 About Me
-
-- 🎮 **Unity Developer** with a strong focus on C# and 3D development.
-- 🌐 Experienced **Frontend Web Developer** proficient in **JavaScript** and **TypeScript**.
-- 🖥️ **Three.js** enthusiast with a focus on creating captivating web-based 3D experiences.
-- ✨ Always exploring the intersection of technology and creativity!
+Hi! I’m Robin, a Digital Media student at the University of the West of England. I’m passionate about merging creativity with technology, focusing on interactive media and storytelling. I love crafting immersive experiences, whether it’s designing virtual reality adventures or building sleek, user-friendly websites.Here’s a bit more about what I do:
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -34,34 +25,7 @@ Hi there! I'm **Robin**, a passionate **3D Interactive Experience Developer** wh
 
 ---
 
-### 🎨 Featured Projects
-
-<div style="display:flex; gap:1rem">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robeecodes&repo=Pirates&layout=compact&theme=radical)](https://github.com/robeecodes/Pirates)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robeecodes&repo=gwds-website&layout=compact&theme=radical)](https://github.com/robeecodes/gwds-website)
-
-</div>
-
-<div style="display:flex; gap:1rem">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robeecodes&repo=icc-semester-one&layout=compact&theme=radical)](https://github.com/robeecodes/icc-semester-one)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robeecodes&repo=metal-mansion&layout=compact&theme=radical)](https://github.com/robeecodes/metal-mansion)
-
-</div>
-
-<div style="display:flex; gap:1rem">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robeecodes&repo=Game-Jame-Masterlist&layout=compact&theme=radical)](https://github.com/robeecodes/Game-Jame-Masterlist)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=robeecodes&repo=advent-of-code-2024&layout=compact&theme=radical)](https://github.com/robeecodes/advent-of-code-2024)
-
-</div>
----
-
-### 📫 Get in Touch
+### Get in Touch
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-0e76a8?style=for-the-badge&logo=firefox)](https://digital-robin.com)
@@ -69,12 +33,5 @@ Hi there! I'm **Robin**, a passionate **3D Interactive Experience Developer** wh
 [![Email](https://img.shields.io/badge/Email-Me%20Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.code22@gmail.com)
 
 </div>
-
----
-
-### 🎯 Goals
-- Build more interactive and immersive experiences using **Three.js** and **WebXR**.
-- Dive deeper into **storytelling in procedural worlds** to create dynamic, engaging narratives.
-- Contribute to open-source projects to give back to the community.
 
 ---

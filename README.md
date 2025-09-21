@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi! I’m Robin, a Digital Media student at the University of the West of England. I’m passionate about merging creativity with technology, focusing on interactive media and storytelling. I love crafting immersive experiences, whether it’s designing virtual reality adventures or building sleek, user-friendly websites.Here’s a bit more about what I do:
+Hi! I’m Robin, a Digital Media student at the University of the West of England. I’m passionate about merging creativity with technology, focusing on interactive media and storytelling. I love crafting immersive experiences, whether it’s designing virtual reality adventures or building sleek, user-friendly websites. Here’s a bit more about what I do:
 
 ---
 
@@ -28,7 +28,7 @@ Hi! I’m Robin, a Digital Media student at the University of the West of Englan
 ### Get in Touch
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-0e76a8?style=for-the-badge&logo=firefox)](https://digital-robin.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Website-0e76a8?style=for-the-badge&logo=firefox)](https://robeecodes.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/robin-kingy/)
 [![Email](https://img.shields.io/badge/Email-Me%20Here-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.code22@gmail.com)
 

@@ -20,8 +20,12 @@ Hi! I’m Robin, a Digital Media student at the University of the West of Englan
 
 ### 📈 GitHub Stats
 
+<div align="center">
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robeecodes&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=robeecodes&show_icons=true&theme=radical&count_private=true)
+
+</div>
 
 ---
 
